@@ -13,5 +13,5 @@
 
 # Screenshot
 
-![alt text](assets/simulator_screenshot_5EECE078-ABB8-4CC3-97B2-29B364B28C63.png)
+<img src="assets/simulator_screenshot_5EECE078-ABB8-4CC3-97B2-29B364B28C63.png" width="400">
 
