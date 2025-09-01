@@ -11,4 +11,7 @@
 3. panggil images dan masukkan ukuran 200x200
 4. masukkan text welcome
 
-image
+# Screenshot
+
+![alt text](assets/simulator_screenshot_5EECE078-ABB8-4CC3-97B2-29B364B28C63.png)
+
