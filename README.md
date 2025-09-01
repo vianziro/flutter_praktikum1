@@ -1,16 +1,14 @@
-# project_hello
+# Praktikum 1
+1. praktikum text widget
+2. praktikum image widget
+3. praktikum kombinasi images dan text
 
-A new Flutter project.
 
-## Getting Started
+# Tahapan kombinasi images dan text
 
-This project is a starting point for a Flutter application.
+1. buat class Praktikum
+2. inisialisasi widget pada class praktikum
+3. panggil images dan masukkan ukuran 200x200
+4. masukkan text welcome
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+image
